@@ -1,0 +1,32 @@
+body{
+	margin:0;
+	padding: 0;
+}
+#footer{
+	/*height: 300px;*/
+	background-color: #000;
+}
+.footer-indent{
+	color:#fff;
+	text-align: center;
+	padding-top: 50px;
+}
+a:hover{
+	color:#99005d;
+}
+.section-img{
+	width: 250px;
+}
+.section-korzina-img{
+	width: 50px;
+}
+#example_1{
+	height: 768px;
+	background-image: url(../img/mercedes_2.png);
+	background-size: cover;
+}
+#example_2{
+	height: 100vh;
+	background-image: url(../img/pattern.png);
+	background-repeat:repeat;
+}
